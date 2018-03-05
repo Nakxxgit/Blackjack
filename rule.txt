@@ -1,0 +1,19 @@
+The rule about this game is below.
+1. Player gets 2 random cards when game is started.
+2. K, Q, J is same as 10, and Ace has 2 values;1, 11.(You can choose one between them)
+3. Then, there are 2 choices;Hit and Stand(Stay).
+4. 'Hit' means that player get one more card.
+5. 'Stand(Stay)' means that player does not get one more card, it means stop. 
+6. Player choose 'Hit' until they want to stop(choose stand).
+7. When player select 'Stand', then sum of player's card value is calculated. Then, it will be compared to dealer's value.
+8. Dealer's value is always between 17 and 23.
+9. If someone's total value is more than 21, the opponent wins the game.
+10. If no one gets more than 21(Player and dealer have total value which is less than 21(=<21), then person who has bigger value wins the game.
+11. If total value of player and dealer are same, that game is draw.
+
+The rule about bet is below.
+1. Player and dealer have 100.
+2. You should bet money, and there are 3 choice;10, 20, 30.
+3. Dealer bets same money as player.
+4. If one person wins the game, he gets opponent's money.
+5. If player's money is 0, player cannot play the game.
