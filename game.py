@@ -53,6 +53,7 @@ def start(player, dealer_value, deck):
     print ("You have: £%s " %(player.money))
     print ("1.bet   2.quit")
 
+    choice1 = str()
     while choice1 in ['1', '2']:
         choice1=input()
     bet=0
